@@ -55,11 +55,6 @@ spotify-songs-clustering/
 ├── data/
 │   └── songs.csv
 │
-├── images/
-│
-├── notebooks/
-│   
-│
 ├── src/
 │   ├── preprocessing.py
 │   ├── train.py
