@@ -56,14 +56,17 @@ spotify-songs-clustering/
 │   └── songs.csv
 │
 ├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── evaluate.py
 │   ├── preprocessing.py
 │   ├── train.py
-│   ├── evaluate.py
+│   ├── utils.py
 │
-├── main.py
-├── requirements.txt
+├── .gitignore
 ├── README.md
-└── .gitignore
+├── main.py
+└── requirements.txt
 ```
 
 ---
