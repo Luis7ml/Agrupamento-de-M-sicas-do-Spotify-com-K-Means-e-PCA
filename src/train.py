@@ -13,7 +13,7 @@ def train_model(X_scaled):
     pca = PCA(n_components=2)
     X_pca = pca.fit_transform(X_scaled)
 
-    kmeans = KMeans(n_clusters=3, random_state=0)
+    kmeans = KMeans(n_clusters=4, random_state=0)
     labels = kmeans.fit_predict(X_pca)
 
 
