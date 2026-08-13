@@ -55,20 +55,18 @@ spotify-songs-clustering/
 ├── data/
 │   └── songs.csv
 │
-├── images/
-│
-├── notebooks/
-│   
-│
 ├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── evaluate.py
 │   ├── preprocessing.py
 │   ├── train.py
-│   ├── evaluate.py
+│   ├── utils.py
 │
-├── main.py
-├── requirements.txt
+├── .gitignore
 ├── README.md
-└── .gitignore
+├── main.py
+└── requirements.txt
 ```
 
 ---
@@ -109,8 +107,19 @@ Para facilitar a interpretação dos resultados, foi utilizada a técnica PCA pa
 Os gráficos gerados incluem:
 
 - Método do Cotovelo
-- Visualização dos Clusters
+ <img width="800" height="500" alt="Wcss" src="https://github.com/user-attachments/assets/23e3dfca-84f5-4047-b0e9-f7c7caffc958" />
 
+- Visualização dos Clusters
+<img width="800" height="600" alt="Clusters" src="https://github.com/user-attachments/assets/bd77b143-f571-4163-bb82-f96b71149c9f" />
+
+
+
+- | Cluster | Descrição |
+  |----------|------------|
+  | 0 | Acústico e Melancólico |
+  | 1 | Pop Energético |
+  | 2 | Faixas de Dance e Festa |
+  | 3 | Instrumental Intenso |
 ---
 
 ## 👨‍💻 Autor
