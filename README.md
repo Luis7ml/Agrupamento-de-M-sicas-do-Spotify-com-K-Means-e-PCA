@@ -110,7 +110,8 @@ Os gráficos gerados incluem:
  <img width="800" height="500" alt="Wcss" src="https://github.com/user-attachments/assets/23e3dfca-84f5-4047-b0e9-f7c7caffc958" />
 
 - Visualização dos Clusters
-<img width="800" height="600" alt="Clusters" src="https://github.com/user-attachments/assets/24e3310b-91cb-4d13-aee3-6bad0a0641ee" />
+<img width="800" height="600" alt="Clusters" src="https://github.com/user-attachments/assets/bd77b143-f571-4163-bb82-f96b71149c9f" />
+
 
 
 - | Cluster | Descrição |
